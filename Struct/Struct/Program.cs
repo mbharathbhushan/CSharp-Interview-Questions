@@ -2,6 +2,12 @@
 
 namespace Struct
 {
+    struct Simple
+    {
+        public int Position;
+        public bool Exists;
+        public double LastValue;
+    };
     class Program
     {
         static void Main(string[] args)
@@ -16,6 +22,13 @@ namespace Struct
             Console.WriteLine(Update(structEmployee).id);
             Console.WriteLine(structEmployee.id);
 
+
+            Simple s;
+            s.Position = 1;
+            s.Exists = false;
+            s.LastValue = 5.5;
+            // ... Write struct field.
+            Console.WriteLine(s.Position);
             Console.ReadKey();
         }
 
