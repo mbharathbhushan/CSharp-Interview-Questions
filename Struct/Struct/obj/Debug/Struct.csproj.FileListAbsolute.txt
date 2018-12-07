@@ -1,0 +1,7 @@
+D:\CSharp-Interview-Questions\Struct\Struct\bin\Debug\Struct.exe.config
+D:\CSharp-Interview-Questions\Struct\Struct\bin\Debug\Struct.exe
+D:\CSharp-Interview-Questions\Struct\Struct\bin\Debug\Struct.pdb
+D:\CSharp-Interview-Questions\Struct\Struct\obj\Debug\Struct.csprojAssemblyReference.cache
+D:\CSharp-Interview-Questions\Struct\Struct\obj\Debug\Struct.csproj.CoreCompileInputs.cache
+D:\CSharp-Interview-Questions\Struct\Struct\obj\Debug\Struct.exe
+D:\CSharp-Interview-Questions\Struct\Struct\obj\Debug\Struct.pdb
