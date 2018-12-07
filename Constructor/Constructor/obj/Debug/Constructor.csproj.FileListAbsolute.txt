@@ -1,0 +1,7 @@
+D:\CSharp-Interview-Questions\Constructor\Constructor\bin\Debug\Constructor.exe.config
+D:\CSharp-Interview-Questions\Constructor\Constructor\bin\Debug\Constructor.exe
+D:\CSharp-Interview-Questions\Constructor\Constructor\bin\Debug\Constructor.pdb
+D:\CSharp-Interview-Questions\Constructor\Constructor\obj\Debug\Constructor.csprojAssemblyReference.cache
+D:\CSharp-Interview-Questions\Constructor\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+D:\CSharp-Interview-Questions\Constructor\Constructor\obj\Debug\Constructor.exe
+D:\CSharp-Interview-Questions\Constructor\Constructor\obj\Debug\Constructor.pdb
