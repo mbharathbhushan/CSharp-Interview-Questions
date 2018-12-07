@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphisum - Override", "Polymorphisum\Polymorphisum - Override.csproj", "{BC6C0455-6C0E-43E9-BE22-CE63277EE7B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphisum - Operator Overlading", "Polymorphisum - Operator Overlading\Polymorphisum - Operator Overlading.csproj", "{7A5B8E8D-3A72-4EA2-A831-E22603A6A848}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphisum - Method Hidding - New", "Polymorphisum - Method Hidding - New\Polymorphisum - Method Hidding - New.csproj", "{F150E705-F13D-4C0C-AFC2-704E2C57DF81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method Overloadding", "Method Overloadding\Method Overloadding.csproj", "{E4AE7E26-3DEC-493C-94DE-594016E72DF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC6C0455-6C0E-43E9-BE22-CE63277EE7B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC6C0455-6C0E-43E9-BE22-CE63277EE7B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC6C0455-6C0E-43E9-BE22-CE63277EE7B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC6C0455-6C0E-43E9-BE22-CE63277EE7B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A5B8E8D-3A72-4EA2-A831-E22603A6A848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A5B8E8D-3A72-4EA2-A831-E22603A6A848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A5B8E8D-3A72-4EA2-A831-E22603A6A848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A5B8E8D-3A72-4EA2-A831-E22603A6A848}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F150E705-F13D-4C0C-AFC2-704E2C57DF81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F150E705-F13D-4C0C-AFC2-704E2C57DF81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F150E705-F13D-4C0C-AFC2-704E2C57DF81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F150E705-F13D-4C0C-AFC2-704E2C57DF81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4AE7E26-3DEC-493C-94DE-594016E72DF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4AE7E26-3DEC-493C-94DE-594016E72DF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4AE7E26-3DEC-493C-94DE-594016E72DF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4AE7E26-3DEC-493C-94DE-594016E72DF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F60F500-B82C-4BDD-BE01-B9213C220EEA}
+	EndGlobalSection
+EndGlobal
