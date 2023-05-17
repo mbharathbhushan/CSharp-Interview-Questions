@@ -13,6 +13,7 @@ namespace Polymorphisum___Operator_Overlading
             Box Box1 = new Box();   // Declare Box1 of type Box
             Box Box2 = new Box();   // Declare Box2 of type Box
             Box Box3 = new Box();   // Declare Box3 of type Box
+            Box Box4 = new Box();   // Declare Box3 of type Box
             double volume = 0.0;    // Store the volume of a box here
 
             // box 1 specification
@@ -39,6 +40,14 @@ namespace Polymorphisum___Operator_Overlading
             // volume of box 3
             volume = Box3.getVolume();
             Console.WriteLine("Volume of Box3 : {0}", volume);
+           
+
+            // Product of two object as follows:
+            Box4 = Box1 * Box2;
+
+            // volume of box 3
+            volume = Box4.getVolume();
+            Console.WriteLine("Volume of Box4 : {0}", volume);
             Console.ReadKey();
         }
     }
@@ -75,6 +84,19 @@ namespace Polymorphisum___Operator_Overlading
             box.height = b.height + c.height;
             return box;
         }
+
+
+        // Overload * operator to product of two Box objects.
+        public static Box operator *(Box b, Box c)
+        {
+            Box box = new Box
+            {
+                length = b.length * c.length,
+                breadth = b.breadth * c.breadth,
+                height = b.height * c.height
+            };
+            return box;
+        }
     }
-  
+
 }
