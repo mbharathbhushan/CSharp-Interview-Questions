@@ -5,3 +5,11 @@ D:\CSharp-Interview-Questions\InterfacesSample\InterfacesSample\obj\Debug\Interf
 D:\CSharp-Interview-Questions\InterfacesSample\InterfacesSample\obj\Debug\InterfacesSample.csproj.CoreCompileInputs.cache
 D:\CSharp-Interview-Questions\InterfacesSample\InterfacesSample\obj\Debug\InterfacesSample.exe
 D:\CSharp-Interview-Questions\InterfacesSample\InterfacesSample\obj\Debug\InterfacesSample.pdb
+D:\Github\CSharp-Interview-Questions\InterfacesSample\InterfacesSample\bin\Debug\InterfacesSample.exe.config
+D:\Github\CSharp-Interview-Questions\InterfacesSample\InterfacesSample\bin\Debug\InterfacesSample.exe
+D:\Github\CSharp-Interview-Questions\InterfacesSample\InterfacesSample\bin\Debug\InterfacesSample.pdb
+D:\Github\CSharp-Interview-Questions\InterfacesSample\InterfacesSample\obj\Debug\InterfacesSample.csproj.AssemblyReference.cache
+D:\Github\CSharp-Interview-Questions\InterfacesSample\InterfacesSample\obj\Debug\InterfacesSample.csproj.SuggestedBindingRedirects.cache
+D:\Github\CSharp-Interview-Questions\InterfacesSample\InterfacesSample\obj\Debug\InterfacesSample.csproj.CoreCompileInputs.cache
+D:\Github\CSharp-Interview-Questions\InterfacesSample\InterfacesSample\obj\Debug\InterfacesSample.exe
+D:\Github\CSharp-Interview-Questions\InterfacesSample\InterfacesSample\obj\Debug\InterfacesSample.pdb

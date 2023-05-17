@@ -2,8 +2,7 @@
 
 namespace InterfacesSample
 {
-  
-    class Program
+      class Program
     {
         static void Main(string[] args)
         {
@@ -16,10 +15,6 @@ namespace InterfacesSample
 
             emp1.hello(1);
             emp2.hello(1);
-
-         
-
-          
 
             Console.ReadKey();
         }
@@ -58,13 +53,13 @@ namespace InterfacesSample
 
         bool IEmployee2.hello(int a)
         {
-            Console.WriteLine("IEmployee 2");
+            Console.WriteLine("IEmployee 2:- " + a.ToString());
             return true;
         }
 
         bool IEmployee.hello(int a)
         {
-            Console.WriteLine("IEmployee");
+            Console.WriteLine("IEmployee  1:- " + a.ToString());
             return true;
         }
     }
