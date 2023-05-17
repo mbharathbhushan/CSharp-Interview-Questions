@@ -35,7 +35,7 @@ namespace Constructor
 
         public void Print()
         {
-            Console.Write("I am from Constrctor Less class");
+            Console.WriteLine("I am from Constrctor Less class");
         }
 
     }
@@ -89,7 +89,7 @@ namespace Constructor
         }
         public employee()
         {
-
+            Console.WriteLine("The non-static constructor of employee");
         }
         public void Salary()
         {

@@ -5,3 +5,11 @@ D:\CSharp-Interview-Questions\Constructor\Constructor\obj\Debug\Constructor.cspr
 D:\CSharp-Interview-Questions\Constructor\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
 D:\CSharp-Interview-Questions\Constructor\Constructor\obj\Debug\Constructor.exe
 D:\CSharp-Interview-Questions\Constructor\Constructor\obj\Debug\Constructor.pdb
+D:\Github\CSharp-Interview-Questions\Constructor\Constructor\bin\Debug\Constructor.exe.config
+D:\Github\CSharp-Interview-Questions\Constructor\Constructor\bin\Debug\Constructor.exe
+D:\Github\CSharp-Interview-Questions\Constructor\Constructor\bin\Debug\Constructor.pdb
+D:\Github\CSharp-Interview-Questions\Constructor\Constructor\obj\Debug\Constructor.csproj.AssemblyReference.cache
+D:\Github\CSharp-Interview-Questions\Constructor\Constructor\obj\Debug\Constructor.csproj.SuggestedBindingRedirects.cache
+D:\Github\CSharp-Interview-Questions\Constructor\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+D:\Github\CSharp-Interview-Questions\Constructor\Constructor\obj\Debug\Constructor.exe
+D:\Github\CSharp-Interview-Questions\Constructor\Constructor\obj\Debug\Constructor.pdb
